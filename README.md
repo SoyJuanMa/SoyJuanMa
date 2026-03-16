@@ -1,157 +1,74 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Juan%20Medina&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB6MXozdTZodTVvN2Fzcmt0amUxNGR4eGQ3am1pMXptaWhjbnQ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/blpl6KW7nSOcnBo2Rk/giphy.gif"  />
 </div>
+
+###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1BFFFF&center=true&vCenter=true&width=940&lines=Hola+👋+Soy+Full-Stack+Developer;Amante+de+TypeScript+y+React;Construyendo+el+futuro+una+línea+a+la+vez" alt="Typing SVG" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
+
+###
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tu-portfolio.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoyJuanMa)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=SoyJuanMa&color=1BFFFF&style=for-the-badge)
-  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SoyJuanMa.SoyJuanMa&"  />
 </div>
 
----
+###
 
-## 🚀 Sobre Mí
+<h1 align="center">hey there 👋</h1>
 
-```typescript
-const juan = {
-  role: "Full-Stack Developer",
-  location: "Argentina 🇦🇷",
-  code: ["TypeScript", "JavaScript", "SQL", "HTML", "CSS"],
-  currentFocus: "Construyendo experiencias web modernas y escalables",
-  
-  technologies: {
-    frontend: {
-      frameworks: ["React", "Next.js"],
-      styling: ["Tailwind CSS", "CSS Modules"],
-      state: ["Zustand", "React Query"]
-    },
-    backend: {
-      runtime: ["Node.js", "Express"],
-      database: ["PostgreSQL", "Prisma"],
-      api: ["REST", "GraphQL"]
-    },
-    tools: ["Git", "Docker", "Neovim", "VS Code"],
-    learning: ["AWS", "Microservicios", "Testing Avanzado"]
-  },
-  
-  currentlyWorking: "Desarrollando proyectos personales y mejorando arquitecturas",
-  philosophy: "El código limpio no es un accidente, es una decisión consciente"
-};
-```
+###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<h3 align="left">👩‍💻  About Me</h3>
 
----
+###
 
-## 💻 Mi Stack Tecnológico
+<p align="left">I'm Juan from Argentina 🇦🇷<br><br>- 🔭 I’m working as a JavaScript developer focused on Node.js and React.<br>- ⚙️ I build backend services, APIs and full-stack projects using TypeScript, PostgreSQL and Bun.<br>- 📚 I'm currently improving my SQL, system design and backend architecture skills.<br>- 🧰 I work daily with Git, Docker and Linux (Arch + Neovim).<br>- ⚡ In my free time I experiment with configs, optimize my dev environment and build personal projects.</p>
 
-### 🎨 Frontend
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
-### ⚙️ Backend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,prisma,graphql" alt="Backend Stack" />
-</div>
+###
 
-### 🛠️ Herramientas & Otros
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,neovim,vscode,postman,figma" alt="Tools Stack" />
-</div>
+<h3 align="left">🔥   My Stats :</h3>
 
----
-
-## 📊 Estadísticas de GitHub
+###
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SoyJuanMa&show_icons=true&count_private=true&hide_border=true&title_color=1BFFFF&icon_color=1BFFFF&text_color=c9d1d9&bg_color=0d1117" alt="Juan's GitHub Stats" /> 
-  
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=SoyJuanMa&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=1BFFFF&fire=1BFFFF&currStreakLabel=1BFFFF" alt="Juan's Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoyJuanMa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=nord&hide_border=false&order=2&custom_title=Language" height="500" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=SoyJuanMa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyJuanMa&layout=compact&hide_border=true&title_color=1BFFFF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-  
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SoyJuanMa&bg_color=0d1117&color=1BFFFF&line=1BFFFF&point=FFFFFF&hide_border=true" />
-</div>
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoyJuanMa/SoyJuanMa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoyJuanMa/SoyJuanMa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SoyJuanMa/SoyJuanMa/output/pacman-contribution-graph.svg">
+</picture>
 
-## 🏆 Trofeos de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SoyJuanMa&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
----
-
-## 🔥 Proyectos Destacados
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SoyJuanMa&repo=nombre-proyecto-1&theme=dark&hide_border=true&title_color=1BFFFF&icon_color=1BFFFF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/SoyJuanMa/nombre-proyecto-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SoyJuanMa&repo=nombre-proyecto-2&theme=dark&hide_border=true&title_color=1BFFFF&icon_color=1BFFFF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/SoyJuanMa/nombre-proyecto-2)
-
-</div>
-
----
-
-## 💡 Filosofía de Desarrollo
-
-> **"Primero resolvé el problema, después escribí el código"** - John Johnson
-
-- 🎯 **Clean Code**: Escribo código que otros puedan entender y mantener
-- 🏗️ **Arquitectura Sólida**: Diseño sistemas escalables desde el principio
-- 📚 **Aprendizaje Continuo**: Siempre buscando mejorar y aprender nuevas tecnologías
-- 🤝 **Colaboración**: El mejor código se escribe en equipo
-- 🐛 **Testing**: Si no está testeado, no funciona
-
----
-
-## 📈 Actividad Reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 💬 Una Frase que me Inspira
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</div>
-
----
-
-<div align="center">
-  
-  ### 🎵 Actualmente Escuchando
-  
-  [![Spotify](https://novatorem-soyjuanma.vercel.app/api/spotify)](https://open.spotify.com/user/tu-usuario)
-  
-  ---
-  
-  ### 📫 Contactame
-  
-  <p>¿Querés trabajar juntos o simplemente charlar sobre tecnología?</p>
-  <p>¡No dudes en contactarme!</p>
-  
-  ---
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=120&section=footer"/>
-  
-  <p><i>⭐️ Si te gustó mi perfil, no olvides dejar una estrella en mis repos ⭐️</i></p>
-  
-</div>
+###
