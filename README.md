@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Juan from Argentina 🇦🇷<br><br>- 🔭 I’m working as a JavaScript developer focused on Node.js and React.<br>- ⚙️ I build backend services, APIs and full-stack projects using TypeScript, PostgreSQL and Bun.<br>- 📚 I'm currently improving my SQL, system design and backend architecture skills.<br>- 🧰 I work daily with Git, Docker and Linux (Arch + Neovim).<br>- ⚡ In my free time I experiment with configs, optimize my dev environment and build personal projects.</p>
+<p align="left">I'm Juan from Argentina 🇦🇷<br><br>- 🔭 I’m working as a TypeScript developer focused on Node.js and React.<br>- ⚙️ I build backend services, APIs and full-stack projects using TypeScript, PostgreSQL and Bun.<br>- 📚 I'm currently improving my SQL, system design and backend architecture skills.<br>- 🧰 I work daily with Git, Docker and Linux (Arch + Neovim).<br>- ⚡ In my free time I experiment with configs, optimize my dev environment and build personal projects.</p>
 
 ###
 
@@ -48,8 +48,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
 ###
@@ -59,16 +57,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoyJuanMa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=nord&hide_border=false&order=2&custom_title=Language" height="500" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SoyJuanMa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoyJuanMa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=SoyJuanMa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoyJuanMa/SoyJuanMa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoyJuanMa/SoyJuanMa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SoyJuanMa/SoyJuanMa/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/SoyJuanMa/SoyJuanMa/output/snake.svg" alt="Snake animation" />
 
 ###
