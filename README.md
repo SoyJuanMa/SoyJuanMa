@@ -82,8 +82,4 @@
 </picture>
 
 ###
-###
 
-<img src="https://raw.githubusercontent.com/SoyJuanMa/SoyJuanMa/output/snake.svg" alt="Snake animation" />
-
-###
